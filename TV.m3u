@@ -89,35 +89,35 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228165/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3//224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K HDR
 http://ott.js.chinamobile.com/TVOD/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="4K体验",河南卫视4K
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="4K",河南卫视4K
 http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="4K体验",欢笑剧场4K
+#EXTINF:-1 group-title="4K",欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 group-title="4K体验",咪咕视频4K
+#EXTINF:-1 group-title="4K",咪咕视频4K
 http://39.134.39.31/PLTV/88888888/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="4K体验",咪咕视频4K 50FPS
+#EXTINF:-1 group-title="4K",咪咕视频4K 50FPS
 http://39.134.39.31/PLTV/88888888/224/3221226351/index.m3u8
-#EXTINF:-1 group-title="4K体验",江苏4K测试
+#EXTINF:-1 group-title="4K",江苏4K测试
 http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 group-title="4K体验",江苏4K测试
+#EXTINF:-1 group-title="4K",江苏4K测试
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 group-title="4K体验",纯享4K
+#EXTINF:-1 group-title="4K",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K体验",UHD4K
+#EXTINF:-1 group-title="4K",UHD4K
 http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 group-title="4K体验",爱上4K
+#EXTINF:-1 group-title="4K",爱上4K
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="4K体验",LOVE NATURE 4K
+#EXTINF:-1 group-title="4K",LOVE NATURE 4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="4K体验",南国都市
+#EXTINF:-1 group-title="4K",南国都市
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="MIGU电影轮播" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU4K剧场
+#EXTINF:-1 group-title="4K" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU4K剧场
 http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动-回看",爱上4K
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
-#EXTINF:-1  tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="陕西移动-回看",SiTV欢笑剧场4K
+#EXTINF:-1  tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",SiTV欢笑剧场4K
 http://111.20.33.93/TVOD/88888893/224/3221226582/index.m3u8
 
 
