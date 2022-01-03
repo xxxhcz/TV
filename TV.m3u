@@ -46,6 +46,8 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221227732/index.m3u8
 http://223.110.242.133:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视-高清
 http://ott.js.chinamobile.com/TVOD/3/224/3221227652/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视-高清
+http://223.110.242.133:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视-高清
 http://223.110.242.133:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视-高清
@@ -58,6 +60,8 @@ http://223.110.242.133:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ/
 http://223.110.242.133:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视-高清
 http://ott.js.chinamobile.com/TVOD/3/224/3221227665/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视-高清
+http://223.110.242.133:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视-高清
 http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-chongqingstv/1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视-高清
@@ -70,8 +74,8 @@ http://39.134.39.39/TVOD/88888888/224/3221226240/index.m3u8
 http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视-高清
 http://223.110.242.133:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视-高清
-http://223.110.242.133:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视-高清
+http://ott.js.chinamobile.com/TVOD/3/224/3221227662/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视-高清
 http://223.110.242.133:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-高清
@@ -84,12 +88,6 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=114&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视-高清
 http://223.110.242.133:6610/gitv/live1/G_HEBEI-CQ/G_HEBEI-CQ/
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视-高清
-http://223.110.242.133:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视-高清
-http://39.134.115.163:8080/TVOD/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视-高清
-http://ott.js.chinamobile.com/TVOD/3/224/3221227662/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
