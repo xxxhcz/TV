@@ -165,7 +165,7 @@ https://live.hkanime.com.hk/xxxx/81/index.m3u8
 https://cdn.hklive.tv/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港",J2台
 https://cdn.hklive.tv/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港"无线新闻台
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港",无线新闻台
 https://cdn.hklive.tv/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港",明珠台
 https://cdn.hklive.tv/hls/84/index.m3u8
