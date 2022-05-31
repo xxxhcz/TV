@@ -101,7 +101,7 @@ http://v.mp.haue.edu.cn/hls/lyhd.m3u8
 http://cooltv.top/tv/aishang.php?id=qhws
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://cooltv.top/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://cooltv.top/tv/aishang.php?id=gzwshd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="视卫视",西藏卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视
 http://cooltv.top/tv/aishang.php?id=xzws
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://cooltv.top/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://cooltv.top/tv/aishang.php?id=gsws
@@ -157,9 +157,9 @@ https://cdn.hklive.tv/hls/76/index.m3u8
 https://cdn.hklive.tv/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港",翡翠台
 https://live.hkanime.com.hk/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台(中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group- title="香港",翡翠台 (中英字幕)
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台(中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港",翡翠台 (中英字幕)
 https://cdn.hklive.tv/hls/81b/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港" ,J2台
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港",J2台
 https://cdn.hklive.tv/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港"无线新闻台
 https://cdn.hklive.tv/hls/83/index.m3u8
