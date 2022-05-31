@@ -25,9 +25,9 @@ http://cooltv.top/tv/aishang.php?id=cctv10hd
 http://cooltv.top/tv/aishang.php?id=cctv11hd
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://cooltv.top/tv/aishang.php?id=cctv12hd
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="视央视",CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 http://cooltv.top/tv/aishang.php?id=cctv13hd
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="视央视",CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://cooltv.top/tv/aishang.php?id=cctv14hd
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV-15.png" group-title="央视",CCTV-15音乐
 http://cooltv.top/tv/aishang.php?id=cctv15hd
@@ -61,41 +61,41 @@ http://cooltv.top/tv/aishang.php?id=bjwshd
 http://cooltv.top/tv/aishang.php?id=szwshd
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://cooltv.top/logo/山东卫视.png" group-title="卫视",山东卫视
 http://cooltv.top/tv/aishang.php?id=sdwshd
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=" 《卫视》，广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=卫视"，广东卫视
 http://cooltv.top/tv/aishang.php?id=gdwshd
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽卫视
 http://cooltv.top/tv/aishang.php?id=ahwshd
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://cooltv.top/logo/东南卫视.png" group-title="卫视",东南卫视
 http://cooltv.top/tv/aishang.php?id=dnwshd
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title=" 《卫视》，山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title=卫视"，山西卫视
 http://cooltv.top/tv/yqdtv.php?id=133
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://cooltv.top/logo/天津卫视.png" group-title="卫视",天津卫视
 http://cooltv.top/tv/aishang.php?id=tjwshd
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视”，重庆卫视
 http://cooltv.top/tv/aishang.php?id=cqws
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=卫视",湖北卫视
 http://cooltv.top/tv/aishang.php?id=hubwshd
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=" 《卫视》，四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=卫视"，四川卫视
 http://cooltv.top/tv/aishang.php?id=scws
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://cooltv.top/logo/河南卫视.png" group-title="卫视",河南卫视
 http://cooltv.top/tv/aishang.php?id=hnws
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://cooltv.top/tv/aishang.php?id=sxws
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=" 《卫视》，吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=卫视"，吉林卫视
 http://cooltv.top/tv/aishang.php?id=jlws
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title=" 《卫视》，云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title=卫视"，云南卫视
 http://cooltv.top/tv/aishang.php?id=ynws
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视”,广西卫视
 http://cooltv.top/tv/aishang.php?id=gxws
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=" 《卫视》，江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=卫视"，江西卫视
 http://cooltv.top/tv/aishang.php?id=jxws
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://cooltv.top/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://cooltv.top/tv/yqdtv.php?id=145
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视》，黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=卫视"，黑龙江卫视
 http://cooltv.top/tv/aishang.php?id=hljwshd
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://cooltv.top/logo/河北卫视.png" group-title="卫视",河北卫视
 http://cooltv.top/tv/aishang.php?id=hbwshd
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=" 《卫视》，海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=卫视"，海南卫视
 http://v.mp.haue.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://cooltv.top/logo/青海卫视.png" group-title="卫视",青海卫视
 http://cooltv.top/tv/aishang.php?id=qhws
@@ -105,7 +105,7 @@ http://cooltv.top/tv/aishang.php?id=gzwshd
 http://cooltv.top/tv/aishang.php?id=xzws
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://cooltv.top/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://cooltv.top/tv/aishang.php?id=gsws
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="新疆卫视",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title=卫视",新疆卫视
 http://cooltv.top/tv/aishang.php?id=xjws
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://cooltv.top/tv/aishang.php?id=xmws
@@ -114,7 +114,7 @@ http://cooltv.top/tv/aishang.php?id=nmws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视", 延边卫视
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="视卫视", 海峡卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视", 海峡卫视
 rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视”，兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
@@ -126,17 +126,17 @@ http://cooltv.top/tv/aishang.php?id=cetv2
 http://cooltv.top/tv/aishang.php?id=cetv4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视
 http://cooltv.top/tv/aishang.php?id=sdjy
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title=" 《卫视》，北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视"，北京冬奥纪实
 http://cooltv.top/tv/btime.php?id=bjjs
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title=" 《卫视》，纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视"，纪实人文
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
 http://cooltv.top/tv/aishang.php?id=jyjs
 #EXTINF:-1tvg-id="-19" tvg-name="金鹰"卡通tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://cooltv.top/tv/aishang.php?id=jykt
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title= 《卫视》，卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视"，卡酷少儿
 http://cooltv.top/tv/aishang.php?id=kkse
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title= 《炫卫视》，哈哈动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视"，哈哈动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINFtvg-id=""漫tvg-name=""tvg-logo=""group-title="卫视",优卡通-logo:
 http://cooltv.top/tv/jiangsu.php?id=ymkt
