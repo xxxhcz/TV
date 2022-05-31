@@ -110,26 +110,26 @@ https://cdn.hklive.tv/hls/33/index.m3u8
 https://cdn.hklive.tv/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="香港",香港国际财经台
 https://cdn.hklive.tv/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港" ,翡翠台
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港",翡翠台
 https://cdn.hklive.tv/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港" ,翡翠台
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台(中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group- title="香港",翡翠台 (中英字幕)
 https://cdn.hklive.tv/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港" ,J2台
 https://cdn.hklive.tv/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港"，无线新闻台
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港"无线新闻台
 https://cdn.hklive.tv/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港" , 明珠台
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港",明珠台
 https://cdn.hklive.tv/hls/84/index.m3u8
 #EXTINF:tvg-id="84" tvg-id="明珠台(粤语名-1)" tvg-logo="https://live.kanime.com.hk/png_logo/84.png" group- title="香港",明珠台（粤语声）
 https://cdn.hklive.tv/hls/84b/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="无线财经·资讯台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title= "香港",无线财经·资讯台
+#EXTINF:-1 tvg-id="85" tvg-name="无线财经·资讯台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="香港",无线财经·资讯台
 https://cdn.hklive.tv/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="香港", ViuTV
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="香港",ViuTV
 https://cdn.hklive.tv/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="香港", ViuTV 六
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="香港",ViuTV 六
 https://cdn.hklive.tv/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="香港", ViuTV 六（第二声度）
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="香港",ViuTV 六（第二声度）
 https://cdn.hklive.tv/hls/96b/index.m3u8
 
