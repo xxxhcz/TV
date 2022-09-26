@@ -1,0 +1,50 @@
+{
+    "name":"Fileball icons",
+    "description":"By ssfun",
+    "icons":[
+        {
+            "name":"Terminus",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Terminus.png"
+        },
+        {
+            "name":"Jmsooo",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Jmsooo.png"
+        },
+        {
+            "name":"Charon",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Charon.png"
+        },
+        {
+            "name":"MisakaF",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/MisakaF.png"
+        },
+        {
+            "name":"Misty",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Misty.png"
+        },
+        {
+            "name":"CcEmby",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/CcEmby.png"
+        },
+        {
+            "name":"Netcup",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Netcup.png"
+        },
+        {
+            "name":"BlueSea",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/BlueSea.png"
+        },
+        {
+            "name":"Odyssey",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Odyssey.png"
+        },
+        {
+            "name":"PinYun",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/PinYun.png"
+        },
+        {
+            "name":"Pornemby",
+            "url":"https://raw.githubusercontent.com/ssfun/fileball-icons/main/icons/Pornemby.png"
+        }
+    ]
+}
