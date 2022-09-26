@@ -73,6 +73,18 @@
         {
             "name":"maoxiong",
             "url":"https://raw.githubusercontent.com/xxxhcz/TV/main/maoxiong.png"
+        },
+        {
+            "name":"404",
+            "url":"https://raw.githubusercontent.com/xxxhcz/TV/main/404.png"
+        },
+        {
+            "name":"peach",
+            "url":"https://raw.githubusercontent.com/xxxhcz/TV/main/peach.png"
+        },
+        {
+            "name":"orange",
+            "url":"https://raw.githubusercontent.com/xxxhcz/TV/main/orange.png"
         }
     ]
 }
