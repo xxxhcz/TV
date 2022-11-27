@@ -33,17 +33,17 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4K IPV6 HLG
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
-
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
-
-#EXTINF:-1 tvg-name="咪咕4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K",咪咕体育-4K-HLG源
-http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视", CCTV4K
 http://live.cooltv.top/tv/cctv4k_backup.php
+
+#EXTINF:-1 tvg-name="抖音4K50P世界杯源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K",抖音4K50P世界杯源
+http://159.75.85.63:5678/zb.php?id=douyin
+#EXTINF:-1 tvg-name="咪咕4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K",咪咕体育-4K-HLG源
+http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="4KUHD" tvg-logo="https://epg.112114.xyz/logo/4KU.png" group-title="4K",4KUHD
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 
