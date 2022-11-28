@@ -31,14 +31,18 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4K HLG
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4K 50P HLG IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4K
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 4K 50P HLG
+http://159.75.85.63:5828/gudou.php?id=4010
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4K 25P HLG
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视", CCTV4K
 http://live.cooltv.top/tv/cctv4k_backup.php
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K HLG
+http://159.75.85.63:5828/gudou.php?id=4005
 
 #EXTINF:-1 tvg-name="抖音4K50P世界杯源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K",抖音4K50P世界杯源
 http://159.75.85.63:5678/zb.php?id=douyin
@@ -50,6 +54,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="4K",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="4K",广东综艺-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=GDZYHD4K_38000
+
 
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="8K",BTV纪实科教-8KSDR源
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
